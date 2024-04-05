@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Optics, Shanghai Institute of Optics and Fine Mechanics, University of Chinese Academy of Sciences, 2015-2021
+* Visiting student in Applied Mathematics, University of California, Berkeley, 2019-2020
+* B.S. in Optical Information Science and Technology, University of Science and Technology of China, 2011-2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023- : Research Associate
+  * Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences
+  * Duties include: student co-supervising, theoretical research on information optical imaging, funding applications, teaching assistant
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2023: Postdoc
+  * Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences
+  * Duties included: student co-supervising, theoretical research on information optical imaging, funding applications
+  * Supervisor: Guohai Situ
   
 Skills
 ======
