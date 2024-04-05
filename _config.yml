@@ -12,7 +12,7 @@ title                    : "Chenyu Hu / Personal Academic Homepage"
 title_separator          : "-"
 name                     : &name "Chenyu Hu"
 description              : &description "Research Associate"
-url                      : https://WeenieHcy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://WeenieHcy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WeenieHcy/WeenieHcy.github.io"
 
