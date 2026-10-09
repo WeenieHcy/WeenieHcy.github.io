@@ -6,7 +6,7 @@ excerpt: 'This paper establishes an adaptive information-maximization encoding (
 patterns in a closed-loop manner.'
 date: 2026-08-20
 venue: 'Photonics Research'
-paperurl: 'http://WeenieHcy.github.io/files/applsci-12-10981-On Ghost Imaging Studies for Information Optical Imaging.pdf'
+paperurl: 'http://WeenieHcy.github.io/files/prj-14-9-3942.pdf'
 citation: 'Sun J., Hu C., Bo Z. et al. &quot;Adaptive information-maximization encoding for ghost imaging: a general Bayesian framework under experimental physical constraints.&quot; <i>Photonics Research</i>. 14(9): 3942 (2026).'
 ---
 
