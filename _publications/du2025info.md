@@ -6,7 +6,7 @@ excerpt: 'This paper proposes a framework to quantitatively evaluate information
 date: 2025-09-18
 venue: 'Optics & Laser Technology'
 paperurl: 'http://WeenieHcy.github.io/files/Information-quantitative evaluation of linear computational imaging and application in ghost imaging.pdf'
-citation: 'Du L. K., Hu C., Nie Z. W. et al. &quot;Information-quantitative evaluation of linear computational imaging and application in ghost imaging.&quot; <i>Photonics Research</i>. 192: 113893 (2025).'
+citation: 'Du L. K., Hu C., Nie Z. W. et al. &quot;Information-quantitative evaluation of linear computational imaging and application in ghost imaging.&quot; <i>Optics & Laser Technology</i>. 192: 113893 (2025).'
 ---
 
 Current evaluation of imaging systems mainly relies on comparing the imaging results to the ground truth. However, the ground truth is usually unavailable in practical scenarios. In this paper, we propose a framework 
