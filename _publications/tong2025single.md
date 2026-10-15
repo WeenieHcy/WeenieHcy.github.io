@@ -2,15 +2,11 @@
 title: "Single-shot super-resolution imaging via discernibility in the high-dimensional light-field space based on ghost imaging"
 collection: publications
 permalink: /publication/tong2025single
-excerpt: 'This paper proposes a framework to quantitatively evaluate information acquisition capabilities of linear computational imaging processes, enabling reference-free evaluation on the imaging error of the ghost imaging system.'
-date: 2025-09-18
-venue: 'Optics & Laser Technology'
-paperurl: 'http://WeenieHcy.github.io/files/Information-quantitative evaluation of linear computational imaging and application in ghost imaging.pdf'
-citation: 'Du L. K., Hu C., Nie Z. W. et al. &quot;Information-quantitative evaluation of linear computational imaging and application in ghost imaging.&quot; <i>Photonics Research</i>. 14(9): 3942 (2026).'
+excerpt: 'This paper demonstrates both theoretically and experimentally a single-shot SR imaging scheme that leverages the object’s discernibility in the H-D light-field information acquired by a ghost imaging camera via sparsity constraints,  and the experimental results show that 5-fold spatial resolution improvement over the Rayleigh diffraction limit is achieved.'
+date: 2025-06-02
+venue: 'Photonics Research'
+paperurl: 'http://WeenieHcy.github.io/files/prj-13-6-1709.pdf'
+citation: 'Tong Z., Hu C., Wang J. et al. &quot;Single-shot super-resolution imaging via discernibility in the high-dimensional light-field space based on ghost imaging.&quot; <i>Photonics Research</i>. 13(6): 1709 (2025).'
 ---
 
-Current evaluation of imaging systems mainly relies on comparing the imaging results to the ground truth. However, the ground truth is usually unavailable in practical scenarios. In this paper, we propose a framework 
-for assessing the capabilities of linear computational imaging processes, where the mapping between object and measurements can be modeled as linear. This framework utilizes Bayesian approach to estimate the amount of 
-acquired information from each sampling, independent of the imaging results and ground truth. We demonstrated our framework based on ghost imaging, a typical linear computational imaging system. This-method facilitates 
-image quality to be improved to the Cramér–Rao bound. Furthermore, an adaptive design of the imaging procedure is also developed and integrated into this dynamic evaluation framework to improve the ability to capture 
-information. The proposed framework exhibits intrinsic generalizability to linear computational imaging systems, and its theoretical structure allows for potential extensions to other computational imaging paradigms.
+Super-resolution (SR) imaging has been widely used in several fields like remote sensing and microscopy. However, it is challenging for existing SR approaches to capture SR images in a single shot, especially in dynamic imaging scenarios. In this study, we present a single-shot SR imaging scheme that leverages discernibility in the high-dimensional (H-D) light-field space based on a ghost imaging camera via sparsity constraints (GISC camera), which is capable of encoding H-D imaging information into a two-dimensional speckle pattern detected in a single shot. We demonstrate both theoretically and experimentally that while the resolution in the H-D light-field space, characterized by the second-order light-field correlation, remains limited by light-field diffraction, the single-shot spatial resolution is greatly improved beyond classical Rayleigh’s criterion by utilizing the discernibility in the H-D light-field space. We further quantify the effects of the sampling number, signal-to-noise ratio, and object sparsity on the resolution. Our results offer significant potential for the SR observation of high-speed dynamic processes.
